@@ -3,7 +3,7 @@
     "name": "matken11235/html-styled-extra",
     "summary": "Additional functions for working with Html.Styled",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "Html.Styled.Extra",
         "Html.Styled.Attributes.Extra",
